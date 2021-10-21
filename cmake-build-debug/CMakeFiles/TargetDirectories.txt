@@ -1,3 +1,0 @@
-C:/Users/panyue/Desktop/program _design/Lab01/01-02/cmake-build-debug/CMakeFiles/01_01.dir
-C:/Users/panyue/Desktop/program _design/Lab01/01-02/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/panyue/Desktop/program _design/Lab01/01-02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
